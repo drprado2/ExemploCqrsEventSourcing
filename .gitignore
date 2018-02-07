@@ -1,0 +1,7 @@
+packages
+*/**/bin/
+*/**/debug/
+*/**/obj/
+*/**/PublishProfiles
+SimpleStart/.vs
+SimpleStart/.vs/**/*

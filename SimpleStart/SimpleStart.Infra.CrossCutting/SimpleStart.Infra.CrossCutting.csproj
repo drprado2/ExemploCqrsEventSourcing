@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SimpleStart.Comercial\SimpleStart.Comercial.csproj" />
+    <ProjectReference Include="..\SimpleStart.Infra.Dados\SimpleStart.Infra.Dados.csproj" />
+    <ProjectReference Include="..\SimpleStart.Kernel\SimpleStart.Kernel.csproj" />
+  </ItemGroup>
+
+</Project>
